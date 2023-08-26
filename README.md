@@ -1,7 +1,6 @@
-<div align="center">
-  <h1 style="color: #FF5733;">Bhaudik Pumbhadiya's Resume</h1>
-  <p style="color: #555;">This repository contains my resume information in markdown format.</p>
-</div>
+# Bhaudik Pumbhadiya's Resume
+
+This repository contains my resume information in markdown format.
 
 ## Contact Information
 
@@ -42,9 +41,10 @@
 
 ## Skills
 
-| Programming Languages         | Libraries/Frameworks            | Tools/Platforms                | Others              |
-|------------------------------|---------------------------------|--------------------------------|---------------------|
-| JavaScript ES6, C/C++, Core PHP, Core Java | React-Native, React, TailwindCSS, Bootstrap, LeafletJS | Git, Github, Figma, Postman, VS Code | OOPs Concept, Firebase, MySQL |
+- **Programming Languages:** JavaScript ES6, C/C++, Core PHP, Core Java
+- **Libraries/Frameworks:** React-Native, React, TailwindCSS, Bootstrap, LeafletJS
+- **Tools/Platforms:** Git, Github, Figma, Postman, VS Code
+- **Others:** OOPs Concept, Firebase, MySQL
 
 ## Interests
 
@@ -61,7 +61,6 @@
 - Volunteer of National Service Scheme (NSS)
   - [Year] (Certificate)
 
-<div align="center">
-  <p>Quick Learner, Innovator, Problem Solver</p>
-  <p>Connect with me on <a href="linkedin-profile-link" style="color: #0074D9;">LinkedIn</a>, <a href="github-profile-link" style="color: #333;">GitHub</a>, <a href="freecodecamp-profile-link" style="color: #228B22;">FreeCodeCamp</a>, <a href="twitter-profile-link" style="color: #1DA1F2;">Twitter</a>.</p>
-</div>
+**Quick Learner, Innovator, Problem Solver**
+
+Connect with me on [LinkedIn](linkedin-profile-link), [GitHub](github-profile-link), [FreeCodeCamp](freecodecamp-profile-link), [Twitter](twitter-profile-link).
